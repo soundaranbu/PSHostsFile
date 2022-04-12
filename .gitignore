@@ -11,3 +11,4 @@ _ReSharper.*
 *.sln.cache
 *.user
 TestResult.xml
+/.vs/PSHostsFile/v17/TestStore/0
